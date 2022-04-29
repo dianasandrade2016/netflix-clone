@@ -2,4 +2,4 @@
 Objetivo recriar interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript.
 
 ## Link Úteis
-[Repositório no GitHub (implementação de referência)](https://www.markdownguide.org/basic-syntax/)
+[Repositório no GitHub (implementação de referência)](https://github.com/felipeAguiarCode/netflix-clone)
